@@ -1,11 +1,11 @@
 import React from 'react'
 import '../src/index.css'
-import Login from './pages/Login'
+import Home from './pages/Home'
 
 const App = (): JSX.Element => {
   return (
     <div className="App">
-      <Login />
+      <Home />
     </div>
   )
 }
